@@ -1,0 +1,10 @@
+D:\2 курс\4 семестр\дз\ооп\Lab12\Lab12\bin\Debug\Lab12.exe.config
+D:\2 курс\4 семестр\дз\ооп\Lab12\Lab12\bin\Debug\Lab12.exe
+D:\2 курс\4 семестр\дз\ооп\Lab12\Lab12\bin\Debug\Lab12.pdb
+D:\2 курс\4 семестр\дз\ооп\Lab12\Lab12\obj\Debug\Lab12.csproj.AssemblyReference.cache
+D:\2 курс\4 семестр\дз\ооп\Lab12\Lab12\obj\Debug\Lab12.Form1.resources
+D:\2 курс\4 семестр\дз\ооп\Lab12\Lab12\obj\Debug\Lab12.Properties.Resources.resources
+D:\2 курс\4 семестр\дз\ооп\Lab12\Lab12\obj\Debug\Lab12.csproj.GenerateResource.cache
+D:\2 курс\4 семестр\дз\ооп\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+D:\2 курс\4 семестр\дз\ооп\Lab12\Lab12\obj\Debug\Lab12.exe
+D:\2 курс\4 семестр\дз\ооп\Lab12\Lab12\obj\Debug\Lab12.pdb
